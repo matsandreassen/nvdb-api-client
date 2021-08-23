@@ -16,7 +16,7 @@ def slfVersion = "1.7.30"
 
 dependencies {
     compile "no.vegvesen.nvdb:nvdb-read-api-v3-client:$nvdbVersion"
-    compile "javax.activation:activation:1.1"
+    compile "jakarta.activation:activation:1.1"
     compile "org.slf4j:slf4j-api:$slfVersion"
     compile "org.slf4j:slf4j-simple:$slfVersion"
 }

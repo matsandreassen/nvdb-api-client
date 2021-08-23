@@ -1,5 +1,8 @@
 # Changelog for NVDB API LES V3 Client
 
+## 1.16.99
+* Adapt to Jakarta
+
 ## 1.16.6
 * Separate builds for local artifactory and maven central
 
